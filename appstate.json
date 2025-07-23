@@ -1,0 +1,12 @@
+[
+  {
+    "key": "c_user",
+    "value": "YOUR_USER_ID",
+    "domain": ".facebook.com"
+  },
+  {
+    "key": "xs",
+    "value": "YOUR_XS_TOKEN",
+    "domain": ".facebook.com"
+  }
+]
